@@ -1,9 +1,9 @@
-// import { ImageComponent } from "./components/ImageComponent";
+import { ImageComponent } from "./components/ImageComponent";
 
 function App() {
   return (
     <div className="main">
-      {/* <ImageComponent src="/components/photo.jpg" alt="Alternative text"/>; */}
+      <ImageComponent src="/components/photo.jpg" alt="Alternative text"/>;
       <div className="contact">
                     <h2 className="title_personalInfo">
                         Contact
